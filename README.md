@@ -56,4 +56,4 @@ To maximize the effectiveness of subdomain scanning, consider using comprehensiv
 
 
 
-                                                                                                  THANKS FOR USING   :)
+                                                                    THANKS FOR USING   :)
